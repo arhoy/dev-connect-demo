@@ -1,0 +1,6 @@
+{
+  "mongoURI":"mongodb+srv://alex:pAreto8020@devconnect2020-xchq0.mongodb.net/test?retryWrites=true",
+  "jwtSecret":"myFuckingSecret",
+  "githubClientId":"7aaf2dec8814ca01076b",
+  "githubSecret":"f06d3acd3063d1eade30e5d1cfe91b8f426c02c5"
+}
