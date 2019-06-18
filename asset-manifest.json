@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dev-connect-demo/static/css/main.fed7a7c6.chunk.css",
+    "main.js": "/dev-connect-demo/static/js/main.61ca6fb0.chunk.js",
+    "main.js.map": "/dev-connect-demo/static/js/main.61ca6fb0.chunk.js.map",
+    "runtime~main.js": "/dev-connect-demo/static/js/runtime~main.f35f0f13.js",
+    "runtime~main.js.map": "/dev-connect-demo/static/js/runtime~main.f35f0f13.js.map",
+    "static/js/2.f738b9b9.chunk.js": "/dev-connect-demo/static/js/2.f738b9b9.chunk.js",
+    "static/js/2.f738b9b9.chunk.js.map": "/dev-connect-demo/static/js/2.f738b9b9.chunk.js.map",
+    "index.html": "/dev-connect-demo/index.html",
+    "precache-manifest.1077c9caef423fb935b0fc18bb5b31ae.js": "/dev-connect-demo/precache-manifest.1077c9caef423fb935b0fc18bb5b31ae.js",
+    "service-worker.js": "/dev-connect-demo/service-worker.js",
+    "static/css/main.fed7a7c6.chunk.css.map": "/dev-connect-demo/static/css/main.fed7a7c6.chunk.css.map",
+    "static/media/App.css": "/dev-connect-demo/static/media/showcase.4b31330b.jpg"
+  }
+}
